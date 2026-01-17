@@ -3,6 +3,10 @@
 A timer application written in Javan using Swing and Java2D. 
 Users can input a time which the application counts down and displays animated visual effects and plays a sound when timer completes. 
 
+
+https://github.com/user-attachments/assets/1a00bc9b-c13f-48f2-9afd-739e6f331937
+
+
 ---
 
 ## Overview
